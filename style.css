@@ -22,7 +22,7 @@ body{
   /* background-position-x: right; */
 }
 .super-container{
-  background-image: url('/webmaster/images/bg.png');
+  background-image: url('bg.png');
   background-size:contain;
   background-repeat: no-repeat;
   background-position-x: right;
